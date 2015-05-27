@@ -29,7 +29,9 @@ $(document).ready(function(){
  
  
  /*$('input:button , p').click(function(){
-        alert("The paragraph was clicked.");
+    
+
+    alert("The paragraph was clicked.");
     }); 
  
  $('#button').click(function(){
