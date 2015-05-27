@@ -10,9 +10,15 @@ text-align: center;
  
 background: #DDDDDD;
 border: 29px;
--moz-border-image: url("diamonds.png") 29 stretch;
--webkit-border-image: url("diamonds.png") 29 stretch;
-border-image: url("diamonds.png") 29 stretch; 
+ 
+ 
+-webkit-transform: scale(2); 
+ 
+-webkit-transform: rotate(30deg);
+ 
+-webkit-transform: skew(20deg);
+ 
+-webkit-transform: translate(100px);
 }
   
 #title {
